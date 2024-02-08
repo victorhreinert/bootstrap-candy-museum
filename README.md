@@ -5,7 +5,8 @@ Desenvolvidoos layouts no Curso Fullstack Developer Bootcamp 2024 Udemy - Colt S
 
 ### 🌎 Como ficou?
 
-- __[bootstrap-candy-museum] (https://victorhreinert.github.io/bootstrap-candy-museum/)__ - Acesse Aqui
+- __[bootstrap-candy-museum](https://victorhreinert.github.io/bootstrap-candy-museum/)__ - Acesse Aqui
+
 
 
 
